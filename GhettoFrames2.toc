@@ -1,0 +1,6 @@
+## Title: |cff71C671GhettoFrames2|cffbbbbbb by Ghettoboyy, Outroot
+## Interface: 60000
+## Author: Ghettoboyy, Outroot
+## SavedVariables: GhettoFrames2SaveX
+
+GhettoFrames2.lua
